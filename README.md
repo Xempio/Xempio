@@ -8,7 +8,7 @@
 </div>
 
 <hr/>
-# 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning NextJS & Ant Design<br>📫 How to reach me: b.batuhanaltiparmak@gmail.com
 
 
