@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba%20%F0%9F%91%8B,%20Ben%20Bayram;+Front%20End%20Developer%20%F0%9F%92%BB;&center=true&size=30">
+</div>
+<div align="center">
+  <h3>
+      📩 b.batuhanaltiparmak@gmail.com
+  </h3>
+</div>
 # 💫 About Me:
 🌱 I’m currently learning NextJS & Ant Design<br>📫 How to reach me: b.batuhanaltiparmak@gmail.com
 
