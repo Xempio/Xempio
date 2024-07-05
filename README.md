@@ -6,6 +6,8 @@
       📩 b.batuhanaltiparmak@gmail.com
   </h3>
 </div>
+
+<hr/>
 # 💫 About Me:
 🌱 I’m currently learning NextJS & Ant Design<br>📫 How to reach me: b.batuhanaltiparmak@gmail.com
 
